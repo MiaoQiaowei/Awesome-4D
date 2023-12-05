@@ -1,4 +1,4 @@
-# Awosome-3D
+# Awesome-3D
 
 ------
 
