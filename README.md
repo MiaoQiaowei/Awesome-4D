@@ -1,4 +1,4 @@
-# Awesome-3D
+# Awesome-4D
 
 ------
 
@@ -16,7 +16,7 @@ If you would like to contribute to our repository or have any questions/advice.
 
 ------
 
-The recent news about 3D！
+The recent news about 4D！
 
 ```
 Mesh GPT is published！ see：
@@ -26,7 +26,7 @@ Mesh GPT is published！ see：
 
 ------
 
-> We list the papers including survey, static 3d, dynamic 3d, GS models and awosome editing methods.
+> We list the papers including survey,  4D, GS models and awesome editing methods.
 
 ## Base models
 
