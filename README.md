@@ -2,7 +2,7 @@
 
 ------
 
-This repository  is a collection of awosome things about papers, codes, datasets, etc.
+This repository  is a collection of awesome things about papers, codes, datasets, etc.
 
 If you would like to contribute to our repository or have any questions/advice.
 
@@ -32,14 +32,20 @@ Mesh GPT is published！ see：
 
 ------
 
-> We list the base models which can as the base stone to  support us to start your research, including static 3D and dynamic 3D methods.
+
 
 - Nerf: Neural radiance field in 3d vision, a comprehensive review [[paper](https://arxiv.org/abs/2210.00379), [code](https://paperswithcode.com/method/nerf)]
 - HyperReel: High-fidelity 6-DoF video with ray-conditioned sampling [[paper](http://openaccess.thecvf.com/content/CVPR2023/papers/Attal_HyperReel_High-Fidelity_6-DoF_Video_With_Ray-Conditioned_Sampling_CVPR_2023_paper.pdf), [code](https://github.com/facebookresearch/hyperreel)]
 
+## Generation
+
+------
 
 
-## Editing methods
+
+
+
+## Editing
 
 ------
 
@@ -58,7 +64,7 @@ Mesh GPT is published！ see：
 ------
 
 - DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks [[paper](),[code](https://github.com/facebookresearch/DONERF)]
-- NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
+- NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis 
 - Dataset and Pipeline for Multi-view Light-Field Video
 - Neural 3D Video Synthesis from Multi-view Video
 - Immersive light field video with a layered mesh representation
