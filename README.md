@@ -76,7 +76,7 @@ Mesh GPT is published！ see：
 
 ------
 
-![Basic Idea](M:\CODEs\3D\Awesome-4D\idea.png)
+![Basic Idea](idea.png)
 
 # Publications
 
