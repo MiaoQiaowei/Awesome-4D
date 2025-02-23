@@ -28,10 +28,6 @@ Mesh GPT is published！ see：
 
 > We list the papers including survey,  4D, GS models and awesome editing methods.
 
-# Awesome-4D-Generation
-
-An organized list of academic papers focused on the topic of 4D Generation. If you have any additions or suggestions,
-feel free to contribute.
 
 ### PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting (2024.11)
 
@@ -276,13 +272,6 @@ Tulyakov, Jeong Joon Park, Andrea Tagliasacchi, David B. Lindell
 Andrea Vedaldi, Devi Parikh, Justin Johnson, Yaniv Taigman
 
 [📄 Paper](https://arxiv.org/abs/2301.11280) | [🌐 Project Page](https://make-a-video3d.github.io/)
-
-### Text-To-4D Dynamic Scene Generation (2023.1)
-
-**Authors**: Uriel Singer, Shelly Sheynin, Adam Polyak, Oron Ashual, Iurii Makarov, Filippos Kokkinos, Naman Goyal,
-Andrea Vedaldi, Devi Parikh, Justin Johnson, Yaniv Taigman
-
-[📄 Paper](https://arxiv.org/pdf/2301.11280) | [🌐 Project Page](https://make-a-video3d.github.io/) 
 
 
 
