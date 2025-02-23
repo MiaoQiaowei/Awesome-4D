@@ -28,7 +28,6 @@ Mesh GPT is published！ see：
 
 > We list the papers including survey,  4D, GS models and awesome editing methods.
 
-
 ### PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting (2024.11)
 
 **Authors**: Qiaowei Miao, JinSheng Quan, Kehan Li, Yawei Luo
@@ -150,12 +149,6 @@ Torralba, Sanja Fidler, Seung Wook Kim, Huan Ling
 
 ### STAR: Skeleton-aware Text-based 4D Avatar Generation with In-Network Motion Retargeting (2024.6)
 
-### DreamGaussian4D: Generative 4D Gaussian Splatting (2024.6)
-
-**Authors**: Jiawei Ren, Liang Pan, Jiaxiang Tang, Chi Zhang, Ang Cao, Gang Zeng, Ziwei Liu
-
-[📄 Paper](https://arxiv.org/pdf/2312.17142) | [🌐 Project Page](https://jiawei-ren.github.io/projects/dreamgaussian4d/) | [💻 Code](https://github.com/jiawei-ren/dreamgaussian4d) | [🎥 Short Presentation](https://huggingface.co/spaces/jiawei011/dreamgaussian4d)
-
 **Authors**: Zenghao Chai, Chen Tang, Yongkang Wong, Mohan Kankanhalli
 
 [📄 Paper](https://arxiv.org/pdf/2406.04629) | [🌐 Project Page](https://star-avatar.github.io/) | [💻 Code](https://github.com/czh-98/STAR)
@@ -214,7 +207,7 @@ Zhangyang Wang, Zhengzhong Tu, Zhiwen Fan
 
 **Authors**: Jiawei Ren, Liang Pan, Jiaxiang Tang, Chi Zhang, Ang Cao, Gang Zeng, Ziwei Liu
 
-[📄 Paper ](https://arxiv.org/pdf/2312.17142.pdf) | [🌐 Project Page](https://jiawei-ren.github.io/projects/dreamgaussian4d/) | [💻 Code](https://github.com/jiawei-ren/dreamgaussian4d)
+[📄 Paper](https://arxiv.org/pdf/2312.17142.pdf) | [🌐 Project Page](https://jiawei-ren.github.io/projects/dreamgaussian4d/) | [💻 Code](https://github.com/jiawei-ren/dreamgaussian4d)
 
 ### Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models (2023.12)
 
