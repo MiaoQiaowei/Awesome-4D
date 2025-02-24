@@ -258,5 +258,3 @@ Andrea Vedaldi, Devi Parikh, Justin Johnson, Yaniv Taigman
 
 
 
-
-
