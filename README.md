@@ -257,3 +257,4 @@ Andrea Vedaldi, Devi Parikh, Justin Johnson, Yaniv Taigman
 [📄 Paper](https://arxiv.org/abs/2301.11280) | [🌐 Project Page](https://make-a-video3d.github.io/)
 
 
+
