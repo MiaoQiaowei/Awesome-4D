@@ -18,8 +18,6 @@ If you would like to contribute to our repository or have any questions/advice.
 
 > We list the papers about 4D generation.
 
-
-
 ### PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting (2024.11)
 
 **Authors**: Qiaowei Miao, JinSheng Quan, Kehan Li, Yawei Luo
@@ -257,8 +255,5 @@ Tulyakov, Jeong Joon Park, Andrea Tagliasacchi, David B. Lindell
 Andrea Vedaldi, Devi Parikh, Justin Johnson, Yaniv Taigman
 
 [📄 Paper](https://arxiv.org/abs/2301.11280) | [🌐 Project Page](https://make-a-video3d.github.io/)
-
-
-
 
 
