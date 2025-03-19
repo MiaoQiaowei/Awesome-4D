@@ -1,16 +1,15 @@
-# Awesome-4D
+# Advances in 4D Generation: A Survey [![ArXiv](https://img.shields.io/badge/arXiv-2503.14501-red)](https://arxiv.org/abs/2503.14501)
+
+**Qiaowei Miao**, **Kehan Li**, **Jinsheng Quan**, **Zhiyuan Min**, **Shaojie Ma**, **Yichao Xu**, **Yi Yang**, and **Yawei Luo**<sup>+</sup>.
+
+<sup>+</sup> Corresponding Author.
+
 
 ------
 
 This repository  is a collection of awesome things about papers, codes, datasets, etc.
 
 If you would like to contribute to our repository or have any questions/advice.
-
-# Contents
-
-------
-
-
 
 # Papers
 
