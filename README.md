@@ -7,6 +7,8 @@
 
 ------
 
+> **We welcome authors of other 4D generation-related works to share their contributions and help expand this field together. Please feel free to contact [QiaoweiMiao@zju.edu.cn](mailto:QiaoweiMiao@zju.edu.cn), and we will regularly update your work in the repository and the main text. If you use WeChat, you are also welcome to reach out to: JoviMeow.**
+
 This repository  is a collection of awesome things about papers, codes, datasets, etc.
 
 If you would like to contribute to our repository or have any questions/advice.
@@ -16,6 +18,20 @@ If you would like to contribute to our repository or have any questions/advice.
 ------
 
 > We list the papers about 4D generation.
+
+
+### MVTokenFlow: High-quality 4D Content Generation using Multiview Token Flow (2025.2)
+
+**Authors**: Hanzhuo Huang, Yuan Liu, Ge Zheng, Jiepeng Wang, Zhiyang Dou, Sibei Yang
+
+[📄 Paper](https://arxiv.org/abs/2502.11697) | [🌐 Project Page](https://soolab.github.io/MVTokenFlow/) | [💻 Code](https://github.com/SooLab/MVTokenFlow)
+
+### AR4D: Autoregressive 4D Generation from Monocular Videos (2025.1)
+
+**Authors**: Hanzhuo Huang, Yuan Liu, Ge Zheng, Jiepeng Wang, Zhiyang Dou, Sibei Yang
+
+[📄 Paper](https://arxiv.org/abs/2501.01722) | [🌐 Project Page](https://hanxinzhu-lab.github.io/AR4D/) | [💻 Code](https://hanxinzhu-lab.github.io/AR4D/)
+
 
 ### PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting (2024.11)
 
@@ -80,6 +96,12 @@ Park, Sergey Tulyakov, Gordon Wetzstein, Andrea Tagliasacchi, David B. Lindell
 Wang, Minkai Xu, Stefano Ermon, Wentao Zhang
 
 [📄 Paper](https://arxiv.org/pdf/2410.07155) | [🌐 Project Page](https://github.com/YangLing0818/Trans4D)
+
+### Compositional 3D-aware Video Generation with LLM Director (2024.9)
+
+**Authors**: Hanzhuo Huang, Yuan Liu, Ge Zheng, Jiepeng Wang, Zhiyang Dou, Sibei Yang
+
+[📄 Paper](https://arxiv.org/abs/2409.00558 ) 
 
 ### Phy124: Fast Physics-Driven 4D Content Generation from a Single Image (2024.9)
 
