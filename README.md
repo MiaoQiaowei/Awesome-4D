@@ -39,6 +39,12 @@ If you would like to contribute to our repository or have any questions/advice.
 
 [📄 Paper](https://arxiv.org/pdf/2405.19957)
 
+### GenXD: Generating Any 3D and 4D Scenes (2024.11)
+
+**Authors**: Yuyang Zhao, Chung-Ching Lin, Kevin Lin, Zhiwen Yan, Linjie Li, Zhengyuan Yang, Jianfeng Wang, Gim Hee Lee, Lijuan Wang
+
+[📄 Paper](https://arxiv.org/pdf/2411.02319) | [🌐 Project Page](https://gen-x-d.github.io/) | [💻 Code](https://github.com/HeliosZhao/GenXD) | [📀 Dataset](https://huggingface.co/datasets/Yuyang-z/CamVid-30K)
+
 ### 4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models (2024.11)
 
 **Authors**: Heng Yu, Chaoyang Wang, Peiye Zhuang, Willi Menapace, Aliaksandr Siarohin, Junli Cao, Laszlo A Jeni, Sergey
