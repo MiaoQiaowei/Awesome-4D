@@ -28,7 +28,7 @@ If you would like to contribute to our repository or have any questions/advice.
 
 ### AR4D: Autoregressive 4D Generation from Monocular Videos (2025.1)
 
-**Authors**: Hanzhuo Huang, Yuan Liu, Ge Zheng, Jiepeng Wang, Zhiyang Dou, Sibei Yang
+**Authors**: Hanxin Zhu, Tianyu He, Xiqian Yu, Junliang Guo, Zhibo Chen, Jiang Bian
 
 [📄 Paper](https://arxiv.org/abs/2501.01722) | [🌐 Project Page](https://hanxinzhu-lab.github.io/AR4D/) | [💻 Code](https://hanxinzhu-lab.github.io/AR4D/)
 
